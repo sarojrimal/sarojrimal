@@ -1,3 +1,4 @@
+![logo](https://github.com/sarojrimal/sarojrimal/blob/main/cover.PNG)
 <h1 align="center">Hi 👋, I'm Saroj Rimal</h1>
 <h3 align="center">A passionate and aspiring Data Analyst from London</h3>
 <img align="right" alt = "Coding" width ="400" src="https://media.licdn.com/dms/image/D4E16AQGl_CBjSbJcRw/profile-displaybackgroundimage-shrink_350_1400/0/1673800918759?e=1703721600&v=beta&t=4zTyVmQ9pWZaiSuGx0HXdSoLfUUEV_jqmLIn2g6qLV4">
