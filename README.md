@@ -8,6 +8,8 @@
 - 🔭 I’m currently working on **NHS UK Data**
 
 - 👨‍💻 All of my projects are available at [https://sarojrimal.github.io/web/](https://sarojrimal.github.io/web/)
+- [http://sarojrimal.com.np/?i=2](http://sarojrimal.com.np/?i=2)
+- 
 
 - 💬 Ask me about **Data Analysis, and Analytics, Machine Learning, AI**
 
